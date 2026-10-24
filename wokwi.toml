@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = "RPI_PICO-20260824-v1.29.0.uf2"
+elf = "build/main.elf"
+
+rfc2217ServerPort = 4002

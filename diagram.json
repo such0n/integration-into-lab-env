@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "author": "Mateusz Suchon",
+  "editor": "wokwi",
+  "parts": [
+    { "id": "pico", "type": "wokwi-pi-pico", "attrs": { "env": "micropython-20260406-v1.28.0" } }
+  ],
+  "connections": []
+}
